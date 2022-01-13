@@ -35,9 +35,10 @@ ___
 ### Assignment
 1.  Read the Ethereum whitepaper: [https://ethereum.org/en/whitepaper/](https://ethereum.org/en/whitepaper/)
 2.  Read the Ethereum yellow paper: [https://ethereum.github.io/yellowpaper/paper.pdf](https://ethereum.github.io/yellowpaper/paper.pdf)
-3.  Read Chapters 1, 2, 3, 4, 6, 13 and 14 from “Mastering Ethereum”: [https://github.com/ethereumbook/ethereumbook](https://github.com/ethereumbook/ethereumbook) and other references in Secureum’s “Ethereum 101” article
-4.  Browse through topics at [https://ethereum.org/en/developers/docs/](https://ethereum.org/en/developers/docs/)
-5.  Explore blocks, transactions and other protocol internals at [https://etherscan.io/](https://etherscan.io/)
+3.  Understanding the Ethereum yellow paper by @owanikin Oderinde Ifeoluwa: [https://medium.com/coinmonks/understanding-the-ethereum-yellow-paper-f280800df590]
+4.  Read Chapters 1, 2, 3, 4, 6, 13 and 14 from “Mastering Ethereum”: [https://github.com/ethereumbook/ethereumbook](https://github.com/ethereumbook/ethereumbook) and other references in Secureum’s “Ethereum 101” article
+5.  Browse through topics at [https://ethereum.org/en/developers/docs/](https://ethereum.org/en/developers/docs/)
+6.  Explore blocks, transactions and other protocol internals at [https://etherscan.io/](https://etherscan.io/)
 ___
 ### Quiz
 - [Slot 1 quiz](quizzes/1.%20Ethereum%20101.md)
