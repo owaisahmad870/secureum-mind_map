@@ -36,10 +36,11 @@ ___
 1.  Read the Ethereum whitepaper: [https://ethereum.org/en/whitepaper/](https://ethereum.org/en/whitepaper/)
 2.  Read the Ethereum yellow paper: [https://ethereum.github.io/yellowpaper/paper.pdf](https://ethereum.github.io/yellowpaper/paper.pdf)
 3.  The Beige Paper, a rewrite of the Yellow Paper for a broader audience in less formal language: https://github.com/chronaeon/beigepaper
-4.  Understanding the Ethereum yellow paper by @owanikin Oderinde Ifeoluwa: [https://medium.com/coinmonks/understanding-the-ethereum-yellow-paper-f280800df590](https://medium.com/coinmonks/understanding-the-ethereum-yellow-paper-f280800df590)
-5.  Read Chapters 1, 2, 3, 4, 6, 13 and 14 from “Mastering Ethereum”: [https://github.com/ethereumbook/ethereumbook](https://github.com/ethereumbook/ethereumbook) and other references in Secureum’s “Ethereum 101” article
-6.  Browse through topics at [https://ethereum.org/en/developers/docs/](https://ethereum.org/en/developers/docs/)
-7.  Explore blocks, transactions and other protocol internals at [https://etherscan.io/](https://etherscan.io/)
+4.  Breaking down the Ethereum yellow paper by Matt Lim @pencilflip: https://pencilflip.medium.com/breaking-down-the-ethereum-yellow-paper-f734287e427e
+5.  Understanding the Ethereum yellow paper by  Oderinde Ifeoluwa @owanikin: [https://medium.com/coinmonks/understanding-the-ethereum-yellow-paper-f280800df590](https://medium.com/coinmonks/understanding-the-ethereum-yellow-paper-f280800df590)
+6.  Read Chapters 1, 2, 3, 4, 6, 13 and 14 from “Mastering Ethereum”: [https://github.com/ethereumbook/ethereumbook](https://github.com/ethereumbook/ethereumbook) and other references in Secureum’s “Ethereum 101” article
+7.  Browse through topics at [https://ethereum.org/en/developers/docs/](https://ethereum.org/en/developers/docs/)
+8.  Explore blocks, transactions and other protocol internals at [https://etherscan.io/](https://etherscan.io/)
 ___
 ### Quiz
 - [Slot 1 quiz](quizzes/1.%20Ethereum%20101.md)
